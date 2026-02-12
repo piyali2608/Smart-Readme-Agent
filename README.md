@@ -7,6 +7,6 @@
 1.  **Clone** this repository.
 2.  **Install dependencies**: `pip install -r requirements.txt`
 3.  **Set environment variables**: `GOOGLE_API_KEY`, `LANGCHAIN_API_KEY` (optional).
-4.  **Run the API**: `python -m streamlit run app.py`
+4.  **Run the API**: `python -m streamlit run src/app.py`
 
 Access API docs at `http://localhost:8501/docs`.
