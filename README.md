@@ -75,7 +75,7 @@ To deploy your own SmartReadmeAgent, follow these steps:
 ### 1. Clone the Repository (Access the Source of Truth)
 
 ```bash
-git clone https://github.com/your-username/SmartReadmeAgent.git
+git https://github.com/piyali2608/Smart-Readme-Agent
 cd SmartReadmeAgent
 ```
 
