@@ -63,19 +63,12 @@ graph TD
     E -- External API --> Internet;
 ```
 
-## 🚀 Getting Started (Initiate Documentation Singularity)
 
-To deploy your own SmartReadmeAgent, follow these steps:
-
-### Prerequisites
-
-*   **Docker & Docker Compose:** Ensure Docker Desktop (or equivalent) is installed and running on your system.
-*   **Google Cloud Project & Gemini API Key:** You'll need a Google Cloud project with access to the Gemini API. Obtain your API key and set it as an environment variable.
 
 ### 1. Clone the Repository (Access the Source of Truth)
 
 ```bash
-git https://github.com/piyali2608/Smart-Readme-Agent
+git clone https://github.com/your-username/SmartReadmeAgent.git
 cd SmartReadmeAgent
 ```
 
