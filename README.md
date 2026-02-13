@@ -185,4 +185,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## 📧 Contact (Connect with the Architects)
 
-For inquiries, support, or to simply marvel at the future of documentation, reach out to us at [piyaaabarman@gmail.com]/[piyali.b25@iiits.in@gmail.com] or open an issue on this repository.
+For inquiries, support, or to simply marvel at the future of documentation, reach out to me at [piyaaabarman@gmail.com] or [piyali.b25@iiits.in] or open an issue on this repository.
