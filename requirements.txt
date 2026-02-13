@@ -6,4 +6,4 @@ google-generativeai
 faiss-cpu
 python-dotenv
 pydantic
-
+streamlit
