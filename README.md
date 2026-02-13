@@ -158,13 +158,10 @@ To contribute to the evolution of SmartReadmeAgent:
     pip install -r requirements.txt
     ```
 3.  **Run Locally:**
-    *   **FastAPI Backend:**
-        ```bash
-        uvicorn main:app --reload --port 8000
-        ```
+
     *   **Streamlit Frontend:**
         ```bash
-        streamlit run main.py
+        python -m streamlit run src/app.py
         ```
     (Note: You might need to adjust `main.py` to run the Streamlit app directly if it's currently configured for a different entry point, or ensure your `docker-compose.yml` points to the correct `main.py` for Streamlit.)
 
