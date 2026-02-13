@@ -18,17 +18,6 @@ Behold, the SmartReadmeAgent – a groundbreaking leap in autonomous documentati
 
 Say goodbye to stale, generic READMEs. Embrace a future where your project's documentation is as dynamic, intelligent, and insightful as the code it describes.
 
-## 🌌 Exaggerated Features (Because your project deserves nothing less)
-
-*   **Gemini Pro Cognitive Core:** At its heart lies the formidable Gemini Pro, providing a hyper-intelligent, multi-modal understanding of code, context, and intent. It doesn't just read; it *comprehends* at a level previously thought impossible for machines, generating narratives that resonate with profound clarity.
-*   **LangGraph Autonomous Reasoning Engine:** Beyond simple chains, SmartReadmeAgent employs a self-optimizing LangGraph architecture, enabling complex, multi-step reasoning, dynamic tool selection, and adaptive strategy formulation. It learns, it adapts, it *evolves* with your project, ensuring optimal documentation outcomes even for the most esoteric codebases.
-*   **Deep Codebase Introspection (Git-Native Intelligence):** Through its GitPython-powered neural tendrils, the agent performs an omniscient analysis of your repository. It understands commit history, file dependencies, architectural patterns, and even the unspoken intentions of your developers, translating raw code into coherent, human-readable narratives with surgical precision.
-*   **Semantic Documentation Synthesis (FAISS-Accelerated Wisdom Retrieval):** Leveraging FAISS for lightning-fast vector similarity search, the agent intelligently retrieves and synthesizes relevant code snippets, architectural decisions, and best practices from vast knowledge repositories. This ensures your README is not just descriptive but *prescriptive*, offering insights that guide future development.
-*   **Dual-Mode Hyper-Interface (Streamlit & FastAPI):** Engage with the agent via an intuitive, real-time Streamlit neural interface for interactive documentation sculpting, or integrate seamlessly into your CI/CD pipelines with its blazing-fast, enterprise-grade FastAPI backend. Experience Documentation-as-a-Service, perfected for the modern era.
-*   **Containerized Singularity (Docker & Docker Compose):** Achieve universal deployment across any computational substrate with our meticulously crafted Docker images. Deploy in milliseconds, scale to infinity, and witness documentation nirvana without a single dependency headache.
-*   **Future-Proof Documentation Schema (Pydantic & JSONSchema):** Every generated README adheres to a rigorously validated, extensible schema, ensuring future compatibility and programmatic accessibility. Your documentation isn't just text; it's structured, queryable knowledge, ready for the semantic web.
-*   **Real-time Observability & Feedback Loops (Watchdog & TQDM):** Monitor the agent's cognitive processes in real-time, with dynamic progress indicators and intelligent feedback mechanisms. Witness the birth of your documentation, step by agonizingly brilliant step, and intervene with telepathic precision if desired.
-*   **Multi-Lingual Documentation Matrix (Coming Soon):** The agent is currently undergoing an upgrade to natively support documentation generation in over 100 human languages, breaking down communication barriers across global development teams.
 
 ## 🏗️ Architecture: The Nexus of Intelligence
 
